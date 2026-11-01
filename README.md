@@ -27,7 +27,7 @@ Joins, GROUP BY, HAVING, ORDER BY, LIMIT, aggregate functions (COUNT, SUM, ROUND
 MySQL Workbench, MySQL/MariaDB server (XAMPP)
 
 ## Files
-- olist_queries.sql: all the queries (data check, top customers, repeat customers, revenue trend)
+- E-commerce_Database_Analysis_queries_1.sql to queries_6.sql: all the queries (data check, top customers, repeat customers, revenue trend)
 
 ## Data
 Brazilian E-Commerce Public Dataset by Olist, from Kaggle (licence CC BY-NC-SA 4.0). The CSV files are not included here, so please download them from the Kaggle dataset page.
